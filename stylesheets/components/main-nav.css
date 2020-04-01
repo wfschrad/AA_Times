@@ -1,0 +1,15 @@
+.main{
+    /* display: flex;
+    justify-content: space-between; */
+    font-size: 12px;
+}
+
+.main__ul{
+    display: flex;
+    justify-content: center;
+}
+
+.main__li{
+    display: inline-block;
+    padding: 0 10px;
+}
